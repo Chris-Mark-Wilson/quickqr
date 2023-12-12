@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  },
+  "name": "quickqr",
+  "version": "1.0.0",
+  "description": "qrCode png file generator",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Mark-Wilson/quickqr.git"
+  },
+ "bin":{
+  "qrgen":"index.js"
+ },
+  "author": "Chris Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Mark-Wilson/quickqr/issues"
+  },
+  "homepage": "https://github.com/Chris-Mark-Wilson/quickqr#readme"
+}
