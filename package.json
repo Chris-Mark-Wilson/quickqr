@@ -3,7 +3,7 @@
     "qrcode": "^1.5.3"
   },
   "name": "quickqr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "qrCode png file generator",
   "main": "index.js",
   "devDependencies": {},
